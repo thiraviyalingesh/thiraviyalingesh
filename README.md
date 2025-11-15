@@ -56,24 +56,6 @@ I love building:
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **Twitter Automation Tool**  
-Enterprise-grade automation using Playwright  
-➡️ https://github.com/thiraviyalingesh/twitter-automation-tool  
-
-🔹 **Vehicle Insurance AI**  
-AI-powered valuation system using LangGraph  
-➡️ https://github.com/thiraviyalingesh/vehicle-insurance-ai  
-
-🔹 **PDF Chatbot with LLM**  
-Semantic search + multi-doc analysis  
-➡️ https://github.com/thiraviyalingesh/pdf-chatbot-llm  
-
-🔹 **Enterprise Chat App**  
-Slack-like platform with AI flows  
-➡️ https://github.com/thiraviyalingesh/enterprise-chat-app  
-
 ---
 
 ## 📫 Contact
