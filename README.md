@@ -48,15 +48,6 @@ I love building:
 
 ---
 
-## 🔥 Contribution Heatmap (Live)
-
-<div align="center">
-<img src="https://ghchart.rshah.org/thiraviyalingesh" alt="GitHub Heatmap" width="85%" />
-</div>
-
----
-
----
 
 ## 📫 Contact
 
